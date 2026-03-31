@@ -168,10 +168,25 @@ The model tends to predict the most frequent class (COVID-19) for most inputs du
 
 ## 📚 References
 
-- Percha B, Altman R B. *A global network of biomedical relationships derived from text.* Bioinformatics, 2018, 34(15): 2614–2624.
-- [pyecharts Documentation](https://pyecharts.org/)
-- [scikit-learn MultinomialNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
-
+- Percha, B., & Altman, R. B. (2018). A global network of biomedical relationships derived from text. Bioinformatics.
+- Devlin, J. et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
+- Lee, J. et al. (2020). BioBERT: a pre-trained biomedical language representation model.
+- Beltagy, I. et al. (2019). SciBERT: A pretrained language model for scientific text.
+Knowledge Graph & Biomedical NLP
+- Hogan, A. et al. (2021). Knowledge Graphs. ACM Computing Surveys.
+- Ji, S. et al. (2021). A Survey on Knowledge Graphs. IEEE TKDE.
+- Rotmensch, M. et al. (2017). Learning a Health Knowledge Graph from Electronic Medical Records.
+- Nickel, M. et al. (2016). A Review of Relational Machine Learning for Knowledge Graphs.
+- Machine Learning & Classification
+- McCallum, A., & Nigam, K. (1998). A comparison of event models for Naive Bayes text classification.
+- Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python.
+Graph Visualization & Tools
+- Tang, Z. et al. (2018). pyecharts: A Python Echarts Plotting Library.
+- Hagberg, A. et al. (2008). NetworkX: Exploring network structure.
+COVID-19 & Biomedical Data
+- Wang, L. L. et al. (2020). CORD-19: The COVID-19 Open Research Dataset.
+- Lu, R. et al. (2020). Genomic characterisation of SARS-CoV-2. The Lancet.
+- Zhou, P. et al. (2020). A pneumonia outbreak associated with a new coronavirus. Nature.
 ---
 
 ## 📄 License
